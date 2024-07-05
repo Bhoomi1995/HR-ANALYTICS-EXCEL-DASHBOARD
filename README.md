@@ -18,3 +18,7 @@
 --> Attrition rate Vs Year since last promotion relation
 
 
+![Screenshot excel dash](https://github.com/Bhoomi-11-S/HR-ANALYTICS-EXCEL-DASHBOARD-PROJECT/assets/174245391/b571704b-dc16-4ea4-912b-3ed44ef0a803)
+
+
+
